@@ -1,0 +1,6 @@
+C:\C# Advanced\SetsAndDictionaries\Hands of cards\bin\Debug\Hands of cards.exe.config
+C:\C# Advanced\SetsAndDictionaries\Hands of cards\bin\Debug\Hands of cards.exe
+C:\C# Advanced\SetsAndDictionaries\Hands of cards\bin\Debug\Hands of cards.pdb
+C:\C# Advanced\SetsAndDictionaries\Hands of cards\obj\Debug\Hands of cards.csprojResolveAssemblyReference.cache
+C:\C# Advanced\SetsAndDictionaries\Hands of cards\obj\Debug\Hands of cards.exe
+C:\C# Advanced\SetsAndDictionaries\Hands of cards\obj\Debug\Hands of cards.pdb

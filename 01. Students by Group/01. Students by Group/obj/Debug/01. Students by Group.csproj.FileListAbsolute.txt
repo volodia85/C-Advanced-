@@ -1,0 +1,6 @@
+C:\C# Advanced\01. Students by Group\01. Students by Group\bin\Debug\_01.Students_by_Group.exe.config
+C:\C# Advanced\01. Students by Group\01. Students by Group\bin\Debug\_01.Students_by_Group.exe
+C:\C# Advanced\01. Students by Group\01. Students by Group\bin\Debug\_01.Students_by_Group.pdb
+C:\C# Advanced\01. Students by Group\01. Students by Group\obj\Debug\01. Students by Group.csprojResolveAssemblyReference.cache
+C:\C# Advanced\01. Students by Group\01. Students by Group\obj\Debug\_01.Students_by_Group.exe
+C:\C# Advanced\01. Students by Group\01. Students by Group\obj\Debug\_01.Students_by_Group.pdb

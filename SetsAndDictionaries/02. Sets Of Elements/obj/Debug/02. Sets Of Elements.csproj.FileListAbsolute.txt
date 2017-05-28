@@ -1,0 +1,6 @@
+C:\C# Advanced\SetsAndDictionaries\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe.config
+C:\C# Advanced\SetsAndDictionaries\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.exe
+C:\C# Advanced\SetsAndDictionaries\02. Sets Of Elements\bin\Debug\_02.Sets_Of_Elements.pdb
+C:\C# Advanced\SetsAndDictionaries\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.exe
+C:\C# Advanced\SetsAndDictionaries\02. Sets Of Elements\obj\Debug\_02.Sets_Of_Elements.pdb
+C:\C# Advanced\SetsAndDictionaries\02. Sets Of Elements\obj\Debug\02. Sets Of Elements.csprojResolveAssemblyReference.cache

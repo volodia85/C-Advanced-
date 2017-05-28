@@ -1,0 +1,6 @@
+C:\C# Advanced\SetsAndDictionaries\Fix emails\bin\Debug\Fix emails.exe.config
+C:\C# Advanced\SetsAndDictionaries\Fix emails\bin\Debug\Fix emails.exe
+C:\C# Advanced\SetsAndDictionaries\Fix emails\bin\Debug\Fix emails.pdb
+C:\C# Advanced\SetsAndDictionaries\Fix emails\obj\Debug\Fix emails.csprojResolveAssemblyReference.cache
+C:\C# Advanced\SetsAndDictionaries\Fix emails\obj\Debug\Fix emails.exe
+C:\C# Advanced\SetsAndDictionaries\Fix emails\obj\Debug\Fix emails.pdb

@@ -1,0 +1,5 @@
+C:\C# Advanced\Stacks and Queues\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\C# Advanced\Stacks and Queues\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\C# Advanced\Stacks and Queues\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\C# Advanced\Stacks and Queues\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\C# Advanced\Stacks and Queues\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

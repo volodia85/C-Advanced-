@@ -1,0 +1,6 @@
+C:\C# Advanced\SetsAndDictionaries\CountSomeValuesInArray\bin\Debug\CountSomeValuesInArray.exe.config
+C:\C# Advanced\SetsAndDictionaries\CountSomeValuesInArray\bin\Debug\CountSomeValuesInArray.exe
+C:\C# Advanced\SetsAndDictionaries\CountSomeValuesInArray\bin\Debug\CountSomeValuesInArray.pdb
+C:\C# Advanced\SetsAndDictionaries\CountSomeValuesInArray\obj\Debug\CountSomeValuesInArray.csprojResolveAssemblyReference.cache
+C:\C# Advanced\SetsAndDictionaries\CountSomeValuesInArray\obj\Debug\CountSomeValuesInArray.exe
+C:\C# Advanced\SetsAndDictionaries\CountSomeValuesInArray\obj\Debug\CountSomeValuesInArray.pdb

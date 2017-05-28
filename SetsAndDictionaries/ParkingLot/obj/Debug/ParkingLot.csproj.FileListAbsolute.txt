@@ -1,0 +1,6 @@
+C:\C# Advanced\SetsAndDictionaries\ParkingLot\obj\Debug\ParkingLot.csprojResolveAssemblyReference.cache
+C:\C# Advanced\SetsAndDictionaries\ParkingLot\bin\Debug\ParkingLot.exe.config
+C:\C# Advanced\SetsAndDictionaries\ParkingLot\bin\Debug\ParkingLot.exe
+C:\C# Advanced\SetsAndDictionaries\ParkingLot\bin\Debug\ParkingLot.pdb
+C:\C# Advanced\SetsAndDictionaries\ParkingLot\obj\Debug\ParkingLot.exe
+C:\C# Advanced\SetsAndDictionaries\ParkingLot\obj\Debug\ParkingLot.pdb

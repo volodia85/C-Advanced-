@@ -1,0 +1,6 @@
+C:\C# Advanced\SetsAndDictionaries\05. Phonebook\bin\Debug\_05.Phonebook.exe.config
+C:\C# Advanced\SetsAndDictionaries\05. Phonebook\bin\Debug\_05.Phonebook.exe
+C:\C# Advanced\SetsAndDictionaries\05. Phonebook\bin\Debug\_05.Phonebook.pdb
+C:\C# Advanced\SetsAndDictionaries\05. Phonebook\obj\Debug\_05.Phonebook.exe
+C:\C# Advanced\SetsAndDictionaries\05. Phonebook\obj\Debug\_05.Phonebook.pdb
+C:\C# Advanced\SetsAndDictionaries\05. Phonebook\obj\Debug\05. Phonebook.csprojResolveAssemblyReference.cache

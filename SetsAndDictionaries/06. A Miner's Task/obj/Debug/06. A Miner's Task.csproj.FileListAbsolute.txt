@@ -1,0 +1,5 @@
+C:\C# Advanced\SetsAndDictionaries\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe.config
+C:\C# Advanced\SetsAndDictionaries\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.exe
+C:\C# Advanced\SetsAndDictionaries\06. A Miner's Task\bin\Debug\_06.A_Miner_s_Task.pdb
+C:\C# Advanced\SetsAndDictionaries\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.exe
+C:\C# Advanced\SetsAndDictionaries\06. A Miner's Task\obj\Debug\_06.A_Miner_s_Task.pdb

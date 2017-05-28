@@ -1,0 +1,6 @@
+C:\C# Advanced\Stacks and Queues\⦁ Balanced Parentheses\bin\Debug\⦁ Balanced Parentheses.exe.config
+C:\C# Advanced\Stacks and Queues\⦁ Balanced Parentheses\bin\Debug\⦁ Balanced Parentheses.exe
+C:\C# Advanced\Stacks and Queues\⦁ Balanced Parentheses\bin\Debug\⦁ Balanced Parentheses.pdb
+C:\C# Advanced\Stacks and Queues\⦁ Balanced Parentheses\obj\Debug\⦁ Balanced Parentheses.csprojResolveAssemblyReference.cache
+C:\C# Advanced\Stacks and Queues\⦁ Balanced Parentheses\obj\Debug\⦁ Balanced Parentheses.exe
+C:\C# Advanced\Stacks and Queues\⦁ Balanced Parentheses\obj\Debug\⦁ Balanced Parentheses.pdb

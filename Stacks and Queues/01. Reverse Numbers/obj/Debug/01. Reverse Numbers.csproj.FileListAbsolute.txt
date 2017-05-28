@@ -1,0 +1,5 @@
+C:\C# Advanced\Stacks and Queues\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe.config
+C:\C# Advanced\Stacks and Queues\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe
+C:\C# Advanced\Stacks and Queues\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.pdb
+C:\C# Advanced\Stacks and Queues\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.exe
+C:\C# Advanced\Stacks and Queues\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.pdb

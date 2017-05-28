@@ -1,0 +1,6 @@
+C:\C# Advanced\Stacks and Queues\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.exe.config
+C:\C# Advanced\Stacks and Queues\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.exe
+C:\C# Advanced\Stacks and Queues\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.pdb
+C:\C# Advanced\Stacks and Queues\04. Basic Queue Operations\obj\Debug\04. Basic Queue Operations.csprojResolveAssemblyReference.cache
+C:\C# Advanced\Stacks and Queues\04. Basic Queue Operations\obj\Debug\_04.Basic_Queue_Operations.exe
+C:\C# Advanced\Stacks and Queues\04. Basic Queue Operations\obj\Debug\_04.Basic_Queue_Operations.pdb
